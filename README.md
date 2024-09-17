@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-👨‍🎓 Graduated Systems Engineer  
-💻 Software Engineer  
-🏋️‍♂️ Sports & Training enthusiast  
-👾 Gamer
+👨‍🎓 Graduated Systems Engineer.  
+💻 Tech Lead & Software Engineer.  
+🏋️‍♂️ Sports & Training enthusiast.  
+👾 Gamer.
 
 
-📍 Argentina
+📍 Buenos Aires, Argentina.
