@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+👨‍🎓 Graduated Systems Engineer  
+💻 Software Engineer  
+🏋️‍♂️ Sports & Training enthusiast  
+👾 Gamer
+
+📍 Argentina
+
 <!--
 **fedekiwo/fedekiwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
